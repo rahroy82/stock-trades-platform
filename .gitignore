@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Local data
+data/
+
+# env
+*.sh
