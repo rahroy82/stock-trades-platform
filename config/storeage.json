@@ -1,0 +1,7 @@
+{
+  "backend": "local",
+  "local_data_root": "data",
+  "s3_bucket": "your-bucket-name-here",
+  "s3_prefix": "stock-trades-platform"
+}
+
