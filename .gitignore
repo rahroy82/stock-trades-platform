@@ -22,3 +22,10 @@ data/
 
 # env
 *.sh
+
+# Files
+*.pdf
+scratchfolder/
+
+#VIM
+*.swp
