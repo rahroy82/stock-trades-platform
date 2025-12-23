@@ -21,7 +21,7 @@ venv/
 data/
 
 # env
-*.sh
+*_env.sh
 
 # Files
 *.pdf
