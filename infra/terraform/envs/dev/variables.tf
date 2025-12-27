@@ -13,3 +13,12 @@ variable "data_lake_bucket_name" {
   description = "Globally-unique S3 bucket name for the data lake"
 }
 
+variable "ecr_repo_name" {
+  type    = string
+  default = "stock-trades-platform"
+}
+
+variable "ecs_cluster_name" {
+  type    = string
+  default = "stock-trades-platform-cluster"
+}
